@@ -3,7 +3,7 @@
 **Project 3 for Full Stack Web Developer Nanodegree**
 
 Build a report that interacts with a Postgres SQL database and generate text output with data required to answer 
-3 mains questions proposed by Udacity.
+3 main questions proposed by Udacity.
 
 ## Getting Started
 
