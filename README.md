@@ -16,7 +16,7 @@ Write permissions are required to download and store this project and required s
 #### Steps:
 1. Download [Vagrant](https://www.vagrantup.com/) and install.
 2. Download [Virtual Box](https://www.virtualbox.org/) and install. 
-3. Clone this repository to a directory of your choice.
+3. Clone or download this repository to a directory of your choice.
 4. Download the **newsdata.sql** (extract from **[newsdata.zip](https://d17h27t6h515a5.cloudfront.net/topher/2016/August/57b5f748_newsdata/newsdata.zip)** file and move them to your **vagrant** directory within your VM. 
 
 ```
@@ -27,7 +27,7 @@ and the database was created with `psql -d news -f newsdata.sql` after step 4.
 
 ### Installing
 
-git clone or download this repository. Create the required views.
+Create the required views.
 
 ### Required views
 
