@@ -52,7 +52,7 @@ def query_db(sql_request):
 # Generating the report
 # Print report title
 def print_title(title):
-    print ("\n\t\t" + title + "\n")
+    print("\n\t\t" + title + "\n")
 
 
 # Display top 3 articles
